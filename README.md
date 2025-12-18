@@ -8,7 +8,7 @@ Bu model, üretim süreçlerindeki kalite kontrol kararlarını (Kabul, RTV, Hur
 - **Analizler:** PCA, Kümeleme (K-Means), Anomali Tespiti (Isolation Forest).
 - **Optimizasyon:** Hibrit Karar Modeli (COPQ, Kapasite ve Akış dengeli).
 
-### Repository Content
+### Repository Content + Project Management Tool
 
 * **Project Management:** [Trello](https://trello.com/invite/b/6916320a0378abcf558edab6/ATTI36c683ad5f7add33eb542619ffb9641fE12FBA67/roketsan-quality-analytics-intelligence)
 * **Dashboard** (as app.py and engine.py): Model dashboard built with Streamlit.
