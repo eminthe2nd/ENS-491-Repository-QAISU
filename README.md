@@ -21,11 +21,6 @@ Bu model, üretim süreçlerindeki kalite kontrol kararlarını (Kabul, RTV, Hur
 
 # QAISU Workbench (Streamlit) – Setup & Run Guide
 
-Bu repo, kalite karar destek sistemi için bir 
-**Streamlit arayüzü (app.py)
-** + arka planda çalışan 
-**ML + optimizasyon motoru (engine.py)** içerir.
-
 ---
 
 ## 1) Gereksinimler
