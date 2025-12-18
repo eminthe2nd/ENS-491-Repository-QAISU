@@ -11,7 +11,7 @@ Bu model, üretim süreçlerindeki kalite kontrol kararlarını (Kabul, RTV, Hur
 ### Repository Content
 
 * **Project Management:** [Trello](https://trello.com/invite/b/6916320a0378abcf558edab6/ATTI36c683ad5f7add33eb542619ffb9641fE12FBA67/roketsan-quality-analytics-intelligence)
-* **Dashboard (as app.py and engine.py):** Model dashboard built with Streamlit.
+* **Dashboard (**as** app.py** and **engine.py):** Model dashboard built with Streamlit.
 * **Quality Assurance Model:** Source code created in Google Colab (`.py`).
 * **Data Samples:** Example input and output using randomly generated dummy data (`.xlsx` and `.csv` respectively).
 * **Glossary:** Explanations of all columns in the output file (`.xlsx`).
