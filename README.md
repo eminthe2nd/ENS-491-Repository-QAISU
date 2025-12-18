@@ -1,4 +1,4 @@
-# ENS-491-2-Repo---QAISU-v-Roketsan-
+# ENS 491/2 Repository QAISU v Roketsan
 ### Project Content
 
 * **Dashboard:** Model dashboard built with Streamlit (`.py`).
