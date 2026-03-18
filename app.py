@@ -320,7 +320,7 @@ elif page == "🧠 Modeling Studio":
 
     if engine is None or df is None:
         st.warning("Upload a dataset first from Data & Exploration page.")
-    
+    else:
 
         model_options = ["Random Forest", "XGBoost", "Logistic Regression"]
         selected_models = st.multiselect("Select models to train", model_options, default=model_options)
